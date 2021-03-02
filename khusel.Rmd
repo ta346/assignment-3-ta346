@@ -1,0 +1,9 @@
+---
+title: "Khusel"
+output: html_document
+---
+
+* Three things about me
+  + I am from Mongolia
+  + I am a senior
+  + I like to play sports
