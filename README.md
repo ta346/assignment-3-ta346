@@ -1,5 +1,2 @@
-# group-9
+# assignment 3
 
-hi
-
-practice from Lecture 4
