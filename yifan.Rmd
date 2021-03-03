@@ -1,0 +1,14 @@
+---
+title: "Yifan"
+date: "2021/3/1"
+output: html_document
+---
+
+
+## About Me
+
+* Yifan is a master of Landscape Architecture candidate in the College of Agriculture and Life Sciences,  graduating this semester .
+
+* Yifan's hometown is Jiangyin, Jiangsu, China.
+
+* Yifan has a border collie named Jordan.
